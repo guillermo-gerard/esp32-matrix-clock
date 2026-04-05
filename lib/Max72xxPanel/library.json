@@ -1,0 +1,21 @@
+{
+	"name": "Max72xxPanel",
+	"version": "1.0.0",
+	"description": "MAX7219 LED Matrix Panel Library",
+	"keywords": "max7219, led, matrix, display",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/robtillaart/Max72xxPanel"
+	},
+	"authors": [
+		{
+			"name": "Rob Tillaart"
+		}
+	],
+	"license": "MIT",
+	"platforms": "*",
+	"frameworks": "arduino",
+	"dependencies": {
+		"adafruit/Adafruit GFX Library": "*"
+	}
+}
